@@ -1,6 +1,7 @@
 # Quantly: Autonomous Quantitative Analysis Engine
 
-> 🎥 **[Watch the 3-Minute Deep-Dive System Demo Here]** 
+> 🎥 **[Watch the 3-Minute Deep-Dive System Demo Here]**
+> https://www.loom.com/share/33c858ea99c445a9ad89f209fc594f67
 
 An enterprise-grade financial machine learning and asynchronous orchestration pipeline. The platform autonomously tracks equities, normalizes macro-economic indicators, isolates market anomalies, and dynamically forecasts corporate cash flows.
 
